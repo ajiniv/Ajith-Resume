@@ -1,0 +1,24 @@
+.profile-picture {
+  width: 200px;
+  /* padding: 10px 50px 0px 10px; */
+  border-radius: 80%;
+}
+
+.details {
+  display: flex;
+  border-bottom: 3px solid rgb(0, 0, 0);
+  padding: 0 0 10px 0;
+}
+
+body {
+  background: #d3d3d3;
+  font-family: Calibri, Cambria;
+}
+
+a {
+  color: rgb(193, 113, 224);
+}
+
+.introduction {
+  padding: 0 0 0 20px;
+}
